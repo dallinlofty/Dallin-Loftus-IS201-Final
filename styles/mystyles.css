@@ -1,0 +1,60 @@
+h1{
+    font-family: 'Times New Roman', Times, serif;
+}
+
+
+h1{
+
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+li{
+    padding-bottom: 10px;
+}
+.intro{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.paddingSpace{
+    padding: 40px;
+}
+
+/*.noPadding{*/
+
+.indexback{
+    background-repeat: no-repeat;
+    background-size: 300px;
+}
+
+.pad{
+    padding-left: 200px;
+}
+
+.prof{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+.explain{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.explain2{
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+ 
+}
+
+.homecenter{
+    text-align: center;
+}
+
+.size1{
+    font-size: medium;
+}
+
+.size2{
+    font-size: larger;
+}
+
+.times{
+    font-family: 'Times New Roman', Times, serif;
+}

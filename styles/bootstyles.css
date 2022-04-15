@@ -1,0 +1,53 @@
+body{
+    background-color: peachpuff;
+    resize:both;
+}
+
+.headCenter{
+    
+    text-align: center;
+}
+
+.TabLeft{
+    padding-left: 100px;
+    padding-right: 100px;
+}
+
+.dallin {
+    background-color: peachpuff;
+}
+
+.headleft{
+    text-align: left;
+}
+
+
+.header{
+    background-color: brown;
+}
+
+.footer{
+    background-color: brown;
+    bottom: 5px;
+    height: 500px
+    left: 5px;
+    right: 5px;
+    position: relative;
+}
+
+
+.headright{
+    text-align: right;
+}
+
+.funfont{
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.small{
+    font-size: 20px;
+}
+
+.large{
+    font-size: 30px;
+}
